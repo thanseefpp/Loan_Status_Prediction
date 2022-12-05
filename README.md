@@ -1,4 +1,4 @@
-# House Price Prediction
+# Loan Status Prediction
 
 ## Install Requirements
 
